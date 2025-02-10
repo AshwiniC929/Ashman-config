@@ -1,0 +1,14 @@
+com\ashman\ProductService\Model\ProductRequest.class
+com\ashman\ProductService\Service\ProductService.class
+com\ashman\ProductService\Model\ProductResponse$ProductResponseBuilder.class
+com\ashman\ProductService\ProductServiceApplication.class
+com\ashman\ProductService\Entity\Product.class
+com\ashman\ProductService\Model\ProductResponse.class
+com\ashman\ProductService\Entity\Product$ProductBuilder.class
+com\ashman\ProductService\Exception\RestResponseEntityExceptionHandler.class
+com\ashman\ProductService\Controller\ProductController.class
+com\ashman\ProductService\Model\ErrorResponse.class
+com\ashman\ProductService\Model\ErrorResponse$ErrorResponseBuilder.class
+com\ashman\ProductService\Exception\ProductServiceCustomException.class
+com\ashman\ProductService\Service\ProductServiceImpl.class
+com\ashman\ProductService\Repository\ProductRepository.class
